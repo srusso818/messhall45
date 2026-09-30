@@ -1,0 +1,228 @@
+{
+  "categories": [
+    {
+      "name": "COLD GREEN SUBS",
+      "note": "ALL SUBMARINES COME WITH HOUSE CHIPS AND PICKLE SPEAR SUBSTITUTE FRIES FOR $2.75",
+      "items": [
+        {
+          "name": "TURKEY PESTO",
+          "description": "Oven roasted turkey breast, provolone, leaf lettuce, tomato, purple onions and basil pesto",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "CHICKEN CAESAR",
+          "description": "Thin sliced chicken breast, leaf lettuce, tomato, purple onion, parmesan and house made Caesar dressing",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "CAJUN ROAST BEEF",
+          "description": "Thin sliced oven roasted beef, smoked cheddar, green leaf lettuce, tomato, purple onion and chipotle pesto",
+          "prices": { "Regular": 11, "Large": 17 }
+        },
+        {
+          "name": "CAJUN TURKEY",
+          "description": "Oven roasted turkey breast, smoked cheddar, green leaf lettuce, tomato, purple onion and chipotle pesto",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "USS NAUTILUS",
+          "description": "Oven roasted turkey, roast beef, Ozark pit ham, Boar's Head bacon, green leaf lettuce, tomato and house mayo",
+          "prices": { "Regular": 11, "Large": 17 }
+        },
+        {
+          "name": "HOG HEAVEN",
+          "description": "Ozark pit ham, Boar's Head bacon, baby Swiss, leaf lettuce, tomato, purple onion, spicy mustard and house mayo",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "JACK WAGON",
+          "description": "Ozark pit ham, Boar's Head bacon, thin sliced chicken breast, pepper jack cheese, green leaf lettuce, tomato, purple onion and a mild horseradish mayo",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "DON MEGA ITALIAN",
+          "description": "Genoa Salami, Pepperoni, and Ozark pit ham, provolone, tomato, cherri peppers, green leaf lettuce, spicy mustard, oil and vinegar",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "VEGGIE CAPRESE",
+          "description": "Fresh mozzarella, vine ripe tomato, purple onion, baby spinach, balsamic reduction and rustic pesto\n- add sliced roast chicken +1,+2",
+          "prices": { "Regular": 10, "Large": 16 }
+        }
+      ]
+    },
+    {
+      "name": "TOASTED SUBMARINES",
+      "note": "",
+      "items": [
+        {
+          "name": "TRADITIONAL FRIED SHRIMP PO BOY",
+          "description": "Lightly battered and fried Gulf shrimp with lettuce, tomato and cajun mayo",
+          "prices": { "Regular": 12, "Large": 18.5 }
+        },
+        {
+          "name": "CHILI-LIME FRIED SHRIMP",
+          "description": "Lightly battered and fried Gulf shrimp dressed with chili-lime sauce and crispy Asian slaw",
+          "prices": { "Regular": 12, "Large": 18.5 }
+        },
+        {
+          "name": "BANG POW FRIED SHRIMP",
+          "description": "Lightly battered and fried Gulf shrimp with lettuce, tomato, cucumber and sriracha mayo",
+          "prices": { "Regular": 12, "Large": 18.5 }
+        },
+        {
+          "name": "FREEDOM DIP",
+          "description": "Braised and thin sliced Angus Top Round with Havarti and Provolone cheese, mild horseradish mayo and natural au jus",
+          "prices": { "Regular": 12, "Large": 18 }
+        },
+        {
+          "name": "MESS HALL PHILLY",
+          "description": "Braised and thin sliced Angus Top round, American and Provolone cheese, sautéed bell pepper, onions and crimini mushrooms with house mayo",
+          "prices": { "Regular": 12, "Large": 18 }
+        },
+        {
+          "name": "CUBANO MISSILE",
+          "description": "Slow-roasted authentic Cuban pulled pork, smoked pit-ham, house pickles, baby Swiss, and dill mustard",
+          "prices": { "Regular": 10, "Large": 16.5 }
+        },
+        {
+          "name": "AMERICANO",
+          "description": "Southern version of the Cubano, roasted pork, seared chicken breast, Boar's Head bacon, Pepper-jack cheese, pickled jalapeño, house mayo and spicy mustard",
+          "prices": { "Regular": 11, "Large": 17 }
+        },
+        {
+          "name": "TURKEY BACON RANCH",
+          "description": "Oven roasted Turkey breast, Boar's Head bacon, lettuce, tomato, Provolone and American cheese with our house ranch",
+          "prices": { "Regular": 10, "Large": 16.5 }
+        },
+        {
+          "name": "HAVARTI HAM AND BACON MELT",
+          "description": "Smoked Pit Ham, Boar's Head bacon, Provolone and Havarti cheese, baby spinach, Roma tomato with mild horseradish mayo",
+          "prices": { "Regular": 10, "Large": 16 }
+        },
+        {
+          "name": "CHIPOTLE PORK",
+          "description": "Slow-roasted Cuban pulled pork, Smoked Cheddar and Chipotle pesto",
+          "prices": { "Regular": 10, "Large": 16.5 }
+        },
+        {
+          "name": "SMOKED CHIPOTLE CHICKEN MELT",
+          "description": "Sliced Chicken breast, Smoked Cheddar, Caramelized Onions and Chipotle pesto",
+          "prices": { "Regular": 10, "Large": 16.5 }
+        }
+      ]
+    },
+    {
+      "name": "CUSTOM SANDWICHES",
+      "note": "ALL CUSTOM SANDWICHES COME WITH HOUSE CHIPS AND A PICKLE. SUB FRIES FOR $2.75",
+      "items": [
+        {
+          "name": "N.A.T.O. GRILLED RIBEYE",
+          "description": "8 ounce Prime Ribeye, sautéed Crimini mushroom-bacon hash, Parmesan, Havarti and natural au jus on Jalapeno cornbread",
+          "prices": { "Price": 25 }
+        },
+        {
+          "name": "TRIPLE CLUB",
+          "description": "Mesquite smoked Turkey breast, Boar's head bacon, American, Swiss, lettuce, tomato and house mayo on whole grain white\n- on multi-grain wheat add $1",
+          "prices": { "Price": 12 }
+        },
+        {
+          "name": "M.B.C.",
+          "description": "A local favorite! Mesquite smoked Turkey breast, crispy bacon, Smoked Cheddar, Sun-dried tomato-mayo, lettuce, tomato on Jalapeño Cornbread",
+          "prices": { "Price": 11.5 }
+        },
+        {
+          "name": "PASTRAMI RUEBEN",
+          "description": "Grilled Pastrami with house sauerkraut, baby swiss, Rueben sauce on marbled rye",
+          "prices": { "Price": 14 }
+        },
+        {
+          "name": "PASTRAMI MOMMI",
+          "description": "Grilled Pastrami, Provolone, Caramelized onions, Spicy mustard and House made pickels on toasted Jalepeno Cornbread",
+          "prices": { "Price": 14 }
+        },
+        {
+          "name": "CRISPY CHICKEN SANDWICH",
+          "description": "lightly battered and fried chicken sandwich served on a brioche bun with swiss, lettuce, tomato and house mayo\n- add bacon, sautéed mushrooms, sautéed onion or fried jalapeño $1 each",
+          "prices": { "Price": 11 }
+        },
+        {
+          "name": "CHICKEN PARMESAN",
+          "description": "Crispy Chicken Parmesan with marinara, fresh mozzarella, provolone, parmesan and baby spinach on a brioche bun",
+          "prices": { "Price": 12 }
+        },
+        {
+          "name": "CRISPY INFUSED PORTOBELLO",
+          "description": "Battered and fried balsamic-infused portobello mushroom with swiss, tomato, mixed greens, pickled pink onion, balsamic reduction and house mayo on a brioche bun",
+          "prices": { "Price": 11 }
+        },
+        {
+          "name": "VEGGIE MELT",
+          "description": "Red bell pepper, purple onion, vine-ripe tomato, black olives, baby spinach, swiss, smoked cheddar on toasted mulit-grain wheat bread",
+          "prices": { "Price": 11 }
+        }
+      ]
+    },
+    {
+      "name": "BURGERS AND BASKETS",
+      "note": "",
+      "items": [
+        {
+          "name": "CHICKEN TENDER BASKET",
+          "description": "buttermilk battered breast tenders, with house fries, toast and two sauces",
+          "prices": { "Price": 13 }
+        },
+        {
+          "name": "DEEP SOUTH FRIED SHRIMP BASKET",
+          "description": "Crispy, butterflied fresh gulf shrimp with house fries, toast and two sauces",
+          "prices": { "Price": 16.5 }
+        },
+        {
+          "name": "HOUSE BURGER",
+          "description": "⅓ # fresh ground burger patty served on a brioche bun with choice of cheese, lettuce, tomato, onion, house mayo, mustard and house fries +3 for double\n- add bacon, sautéed mushrooms, sautéed onions or fried jalepeno +1.50",
+          "prices": { "Price": 11.5 }
+        },
+        {
+          "name": "ROYAL WITH CHEESE",
+          "description": "¼# fresh ground beef patty, American, lettuce, tomato, onion, ketchup, mustard, traditional burger bun and house fries. +2 for double Royal\n- add bacon, sautéed mushrooms, carmel onions, or fried jalepeno +1.50",
+          "prices": { "Price": 10 }
+        },
+        {
+          "name": "PATTY SMASH MELT",
+          "description": "⅓# fresh ground beef patty, Caramelized onions. baby Swiss, American and smash sauce on toasted marble rye and house fries",
+          "prices": { "Price": 12 }
+        },
+        {
+          "name": "GRILLED CHEESE AND TOMATO BISQUE",
+          "description": "White whole grain sliced and toasted bread with provolone, smoked cheddar and baby swiss served with our simple and delicious tomato bisque",
+          "prices": { "Price": 9.5 }
+        },
+        {
+          "name": "SIDE GARDEN SALAD",
+          "description": "mixed greens, tomato, cucumber, onion, crouton and choice of dressing",
+          "prices": { "Price": 5.29 }
+        },
+        {
+          "name": "CUCUMBER-TOMATO SALAD",
+          "description": "cucumber, cherry tomato, purple onion with a creamy vinaigrette",
+          "prices": { "Price": 5.29 }
+        },
+        {
+          "name": "FRIED HOUSE PICKLES",
+          "description": "House made pickles, battered and fried, served with rough house ranch",
+          "prices": { "Price": 8.5 }
+        },
+        {
+          "name": "FRIED JALAPENO",
+          "description": "Deep fried Jalapeno served with our house ranch simple and spicy",
+          "prices": { "Price": 8.5 }
+        },
+        {
+          "name": "HOUSE FREEDOM FRIES",
+          "description": "House fries served with choice of sauce",
+          "prices": { "Price": 4.5 }
+        }
+      ]
+    }
+  ]
+}
