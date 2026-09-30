@@ -288,6 +288,8 @@ body {
   letter-spacing: 2px;
   text-decoration: none;
   font-weight: 700;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .site-header-logo {
@@ -295,12 +297,14 @@ body {
   height: 44px;
   object-fit: contain;
   filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.6));
+  flex-shrink: 0;
 }
 
 .site-header-actions {
   display: flex;
   align-items: center;
   gap: 1.75rem;
+  flex-shrink: 0;
 }
 
 .header-nav-link {
@@ -311,6 +315,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: color 0.25s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .header-nav-link:hover {
@@ -331,6 +337,8 @@ body {
   border-radius: 4px;
   transition: all 0.3s ease;
   background: rgba(197, 160, 89, 0.1);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .header-phone-btn:hover {
@@ -667,34 +675,41 @@ body {
     padding: 0.35rem 0.85rem;
   }
   .site-header {
-    padding: 0.75rem 5%;
+    padding: 0.65rem 3%;
+    gap: 0.5rem;
   }
 
   .site-header-brand {
-    font-size: 1.4rem;
-  }
-
-  .site-header-actions {
-    gap: 0.75rem;
-  }
-
-  .header-phone-btn {
-    font-size: 1rem;
-    padding: 0.35rem 0.75rem;
-  }
-
-  .hero {
-    min-height: auto;
-    padding: 2rem 1rem 2.25rem;
-  }
-
-  .hero-logo {
-    max-width: 220px;
+    font-size: 1.22rem;
+    letter-spacing: 1px;
+    gap: 0.45rem;
+    white-space: nowrap;
   }
 
   .site-header-logo {
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
+  }
+
+  .site-header-actions {
+    gap: 0.65rem;
+  }
+
+  .header-nav-link {
+    font-size: 1.05rem;
+    white-space: nowrap;
+  }
+
+  .header-phone-btn {
+    font-size: 0.95rem;
+    padding: 0.35rem 0.65rem;
+    gap: 0.35rem;
+    white-space: nowrap;
+  }
+
+  .phone-icon-svg {
+    width: 0.95em;
+    height: 0.95em;
   }
 
   .footer-brand {
@@ -722,6 +737,38 @@ body {
     flex-direction: column;
     gap: 2rem;
     text-align: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .site-header {
+    padding: 0.5rem 0.5rem;
+    gap: 0.35rem;
+  }
+
+  .site-header-brand {
+    font-size: 1.08rem;
+    letter-spacing: 0.5px;
+    gap: 0.35rem;
+  }
+
+  .site-header-logo {
+    width: 28px;
+    height: 28px;
+  }
+
+  .site-header-actions {
+    gap: 0.45rem;
+  }
+
+  .header-nav-link {
+    font-size: 0.95rem;
+  }
+
+  .header-phone-btn {
+    font-size: 0.85rem;
+    padding: 0.25rem 0.45rem;
+    gap: 0.25rem;
   }
 }
 
