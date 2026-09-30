@@ -640,7 +640,62 @@ body {
   color: var(--text-secondary);
 }
 
+@media (max-width: 900px) {
+  .about-section {
+    padding: 3.5rem 6%;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 2.75rem;
+  }
+
+  .about-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .about-text p {
+    font-size: 1.15rem;
+    line-height: 1.7;
+  }
+}
+
 @media (max-width: 768px) {
+  .about-section {
+    padding: 3rem 5%;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 2.25rem;
+  }
+
+  .about-text h2 {
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .about-text p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .photo-marquee {
+    padding: 1rem;
+  }
+
+  .marquee-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .marquee-image {
+    height: 160px;
+    margin-right: 1rem;
+  }
+
   .menu-section {
     padding: 3rem 5%;
   }
